@@ -163,7 +163,14 @@ https://www.figma.com/proto/evxZdTGmKQvEveLE0q7mNQ/Attendance-Management-System?
 
 ### 🌷 Developed By 🌷
 
+
 👩‍💻 **Name:** M. Sudhapriya
+
+
 🎓 **Course:** I BCA
+
+
 🏫 **College:** Kamaraj College
+
+
 💙 **Project:** Attendance Management System 📚✨
