@@ -139,9 +139,23 @@ https://www.figma.com/proto/evxZdTGmKQvEveLE0q7mNQ/Attendance-Management-System?
 
 🏠 **Login** → 👤 **Select Role** → 📊 **Dashboard** → 📅 **Attendance** → 📝 **Attendance Entry** → 📈 **Reports** → 👤 **Profile**
 
+
+
+
+
 💙 **Student:** Login → Dashboard → My Attendance → Attendance Report
+
+
+
+
 💚 **Teacher:** Login → Dashboard → Class Attendance → Attendance Entry → Class Report
+
+
+
 💜 **Admin:** Login → Dashboard → School Attendance → Attendance Entry → Attendance Report
+
+
+
 
 🌸✨ **Attendance Management System makes attendance tracking simple, colourful, organized, and hassle-free!** 🏫📚📊💖
 
