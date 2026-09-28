@@ -8,7 +8,7 @@ https://www.figma.com/design/evxZdTGmKQvEveLE0q7mNQ/Attendance-Management-System
 
 https://www.figma.com/proto/evxZdTGmKQvEveLE0q7mNQ/Attendance-Management-System?node-id=0-1&t=YhArf1To6lXAyl8g-1
 
-
+---
 
 🌸📚 **ATTENDANCE MANAGEMENT SYSTEM – Interactive Attendance Flow** 📚🌸
 
@@ -134,6 +134,8 @@ https://www.figma.com/proto/evxZdTGmKQvEveLE0q7mNQ/Attendance-Management-System?
 
 
 ✨ Students, teachers, and admins can access their **profile information** and quickly navigate to their relevant attendance features. 👤🎓⚙️
+
+---
 
 ### 🌈 Overall Flow
 
